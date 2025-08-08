@@ -4,10 +4,14 @@
 <h3 align="center">Senior Software Engineer | Java & Angular </h3>
 
 <p align="center">
-  <a href="mailto:bantawaheem35@gmail.com">📧 bantawaheem35@gmail.com</a> • 
-  <a href="www.linkedin.com/in/himal-rai" >🔗 LinkedIn</a> • 
-  <a href="https://github.com/himal99" target="_blank">💻 GitHub</a>
+  <a href="mailto:bantawaheem35@gmail.com"><img src="https://img.shields.io/badge/Email-bantawaheem35@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himal-rai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Himal%20Rai-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/himal99" target="_blank"><img src="https://img.shields.io/badge/GitHub-HimalRai-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/himalrai_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-@himalrai__dev-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/HeemalRaee1999/" target="_blank"><img src="https://img.shields.io/badge/Facebook-himalrai-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/himalrai.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-himalrai.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
+
 
 ---
 
