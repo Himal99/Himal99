@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:bantawaheem35@gmail.com">📧 bantawaheem35@gmail.com</a> • 
-  <a href="www.linkedin.com/in/himal-rai" target="_blank">🔗 LinkedIn</a> • 
+  <a href="www.linkedin.com/in/himal-rai" >🔗 LinkedIn</a> • 
   <a href="https://github.com/himal99" target="_blank">💻 GitHub</a>
 </p>
 
