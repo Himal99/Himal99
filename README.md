@@ -41,6 +41,34 @@
 
 ---
 
+---
+
+### 🚀 Featured Projects
+
+#### 🏦 [FLASH – Fast Loan Against Share (2024 – 2025)](https://flash.gibl.com.np)
+> An innovative online platform that simplifies the loan application process for share loans, auto loans, home loans, and education loans.  
+This user-friendly system allows individuals to apply for loans directly through their browser, ensuring a fast and efficient experience.
+
+#### 💡 LAS – Loan Automation System: CreditX Pro (2021 – 2025)
+> A credit origination and appraisal automation system for commercial banks.  
+CreditX Pro reduces lending turnaround time by integrating risk-based pricing, credit bureau connections, and stakeholder collaboration across the lending lifecycle.
+
+#### 🗜️ File Compressor (2023 – 2025)
+> A system that reduces file size using pattern-based compression techniques.  
+Optimizes storage and file transfer by detecting repetitive patterns and replacing them with smaller identifiers.
+
+#### 💼 Saral Karja – Digital Lending Platform (2024 – 2025)
+> A powerful digital lending system developed by SB Solutions, offering fast, secure loan processing.  
+Supports BNPL (Buy Now, Pay Later), Auto Loans, and Share Loans. Designed to remove the friction of traditional banking with digital-first user experiences.
+
+#### 📂 Admin Dashboard Tools
+> Built tools for loan tracking, customer document management, request deletion/archive, HL/AL modules, branch file transfers, and RM email alerts.
+
+#### 🛡️ KYC & OTP Verification System
+> Secure OTP encryption, expiration logic, session tracking, login event monitoring, password policy enforcement, and admin-level control for user management.
+
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
