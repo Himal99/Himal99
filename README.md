@@ -15,6 +15,12 @@
 
 ---
 
+### 💼 About Me
+
+- 👨‍💻 I began my software engineering journey in **2018**, and since then, I've been building enterprise-grade applications with **Java**, **Spring Boot**, and **Angular** — primarily in the **banking and finance sector**.
+- 💬 Passionate about **clean architecture**, **developer mentoring**, and **team leadership**
+- 🇳🇵 Based in Nepal, working globally
+---
 ### 🔥 What I Do
 
 - 👨‍💻 Building enterprise applications with **Spring Boot** and **Angular**
@@ -43,7 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
+
 
 ---
 
