@@ -77,6 +77,9 @@ Supports BNPL (Buy Now, Pay Later), Auto Loans, and Share Loans. Designed to rem
 #### 🛡️ KYC & OTP Verification System
 > Secure OTP encryption, expiration logic, session tracking, login event monitoring, password policy enforcement, and admin-level control for user management.
 
+### 💹  [Share Portfolio Management System (2025)](https://client.ssl.com.np/)
+> A **Share Portfolio Management System** is a platform that helps users track, manage, and analyze their investments in shares and securities. It provides tools to monitor stock performance, calculate gains or losses, manage buy/sell transactions, view real-time market data, and generate portfolio reports. This system simplifies investment tracking, supports informed decision-making, and helps users optimize their overall portfolio performance.
+
 
 
 ### 📊 GitHub Stats
