@@ -80,7 +80,12 @@ Supports BNPL (Buy Now, Pay Later), Auto Loans, and Share Loans. Designed to rem
 ### 💹  [Share Portfolio Management System (2025)](https://client.ssl.com.np/)
 > A **Share Portfolio Management System** is a platform that helps users track, manage, and analyze their investments in shares and securities. It provides tools to monitor stock performance, calculate gains or losses, manage buy/sell transactions, view real-time market data, and generate portfolio reports. This system simplifies investment tracking, supports informed decision-making, and helps users optimize their overall portfolio performance.
 
+### 💹  BOM (Back office mnagement system)
+> I worked on a project called Back Office Management System, which is a core operational platform for brokerage firms. It manages all day-to-day transactions, share trading activities, settlements, statements, and other trade-related data. All data coming from the TMS (Trade Management System) is processed and maintained within this system to ensure accuracy and smooth back-office operations.
 
+In this project, my key responsibility was integrating bank third-party APIs to automate financial processes. I implemented API integrations to fetch account statements, retrieve current balances, and synchronize real-time financial information. I also integrated a Web Checkout Payment System API, enabling secure and seamless online payments directly from the platform.
+
+This work significantly enhanced the system’s efficiency, reliability, and overall financial workflow.
 
 ### 📊 GitHub Stats
 
