@@ -83,17 +83,9 @@ Supports BNPL (Buy Now, Pay Later), Auto Loans, and Share Loans. Designed to rem
 ### 💹  BOM (Back office mnagement system)
 > I worked on a project called Back Office Management System, which is a core operational platform for brokerage firms. It manages all day-to-day transactions, share trading activities, settlements, statements, and other trade-related data. All data coming from the TMS (Trade Management System) is processed and maintained within this system to ensure accuracy and smooth back-office operations.
 
-In this project, my key responsibility was integrating bank third-party APIs to automate financial processes. I implemented API integrations to fetch account statements, retrieve current balances, and synchronize real-time financial information. I also integrated a Web Checkout Payment System API, enabling secure and seamless online payments directly from the platform.
+> In this project, my key responsibility was integrating bank third-party APIs to automate financial processes. I implemented API integrations to fetch account statements, retrieve current balances, and synchronize real-time financial information. I also integrated a Web Checkout Payment System API, enabling secure and seamless online payments directly from the platform.
 
 This work significantly enhanced the system’s efficiency, reliability, and overall financial workflow.
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himal99&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himal99&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
